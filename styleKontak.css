@@ -1,0 +1,35 @@
+div.paragraf {
+	color: black;
+	background-image: url(https://www.bing.com/images/search?view=detailV2&ccid=UOOj6VsI&id=95CFF5213DEFC50F648BF88DA64A492F4483D2AD&thid=OIP.UOOj6VsIxJsLo2I-qy2sLwHaEU&mediaurl=https%3a%2f%2fwww.1solicitors.co.uk%2fwp-content%2fuploads%2f2017%2f03%2fContact-Us-1.jpg&exph=2410&expw=4132&q=contack+us+background&simid=608012398628570567&ck=E4802D676AF39160A802CF4F50DF1F6D&selectedIndex=1&FORM=IRPRST&ajaxhist=0);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+	padding: 10px;
+	width: 1400px;
+	font-family: sans-serif;
+  	font-style: normal;
+  	background-color: #FFEBCD;
+  	font-size: 12px;
+  	display: flex;
+}
+h3{
+	display: flex;
+	text-align: center;
+}
+form {
+	text-align: right;
+	margin-left: auto;
+}
+body {
+	background: white;
+}
+div.kontak{
+	color: black;
+	padding: 20px;
+	width: 1400px;
+	font-family: sans-serif;
+  	font-style: normal;
+  	background-color: #FFEBCD;
+  	font-size: 12px;
+  	text-align: center;
+}

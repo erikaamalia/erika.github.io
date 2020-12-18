@@ -1,0 +1,16 @@
+.d{
+	text-align: center;
+	background-color: pink;
+}
+.a{ 
+	text-align: left;
+	background-color: bisque;
+	width: 200px;
+	height: 320px;
+}
+.l{
+	height:350;
+	width: 450;
+	padding: 50px;
+	text-align: center;
+}

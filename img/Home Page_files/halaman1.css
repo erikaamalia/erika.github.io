@@ -1,0 +1,19 @@
+.d{
+	text-align: center;
+	background-color: pink;
+}
+.a{ 
+	text-align: left;
+	background-color: bisque;
+	width: 200px;
+	height: 320px;
+}
+.g{
+	 text-align: right;
+	 height:350;
+	 width: 450;
+}
+.l{
+	text-align: center;
+	background-color: bisque;
+}
